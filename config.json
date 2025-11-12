@@ -87,7 +87,7 @@
     },
     "iqiyi": {
     "api": "https://iqiyizyapi.com/api.php/provide/vod",
-    "name":"爱奇艺资源"
+    "name": "爱奇艺资源"
     },
   }
 }
